@@ -3,11 +3,11 @@
 
 title: Yuhan He
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
-baseurl: "/bay" # the subpath of the site
-url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profile-pic.jpg
-google_analytics: "UA-121636368-3"
+  Welcome to Yuhan's blog!
+baseurl: "" # the subpath of the site
+url: "https://sime-chill.github.io/" # the base hostname & protocol for the site
+og_image: /assets/img/pic_hyh1.png
+# google_analytics: "UA-121636368-3"
 
 header:
   pages:
@@ -19,7 +19,7 @@ footer:
   show_powered_by: true
   contact:
     - type: email
-      name: Email
+      name: yhhe23@m.fudan.edu.cn
       value: yhhe23@m.fudan.edu.cn
   follow:
     - type: github
