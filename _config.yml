@@ -5,7 +5,7 @@ title: Yuhan He
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Yuhan's blog!
 baseurl: "" # the subpath of the site
-url: "yhhe.top" # the base hostname & protocol for the site
+url: "/" # the base hostname & protocol for the site
 og_image: /assets/img/pic_hyh3.png
 # google_analytics: "UA-121636368-3"
 
@@ -16,7 +16,7 @@ header:
     # - name: Blog
 
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - type: email
       name: yhhe23@m.fudan.edu.cn
