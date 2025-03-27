@@ -21,10 +21,14 @@ Aug. 2019 - Jun. 2023
 B.E. in Microelectronics Science and Engineering
 
 # **Publications**
-**CorTile: A Scalable Neuromorphic Processing Core for Cortical Simulation With Hybrid-Mode Router and TCAM.** <a href="https://ieeexplore.ieee.org/document/10621024">[link]</a>  
-Fanxi Yang, **Yuhan He**, Jinqiao Yang, Anqin Xiao, Lufei Fan, Ning Ma, Li-Rong Zheng, Zhuo Zou  
-IEEE TCAS-I, 2024. (Early Access, **co-first author**)
+**CAP-HDC: A CAM-Based Processor for Hyperdimensional Computing** <a href="https://epapers2.org/iscas2025/ESR/paper_details.php?paper_id=2732">[link]</a>  
+Yuhan He, Anqin Xiao, Tianxi Hu, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou
+IEEE ISCAS, 2025.
 
-**TSCM: A TCAM-Based Sparse Connection Memory Architecture in Neuromorphic Computing System for Cortical Simulation.** <a href="https://ieeexplore.ieee.org/document/10558463">[link]</a>  
+**CorTile: A Scalable Neuromorphic Processing Core for Cortical Simulation With Hybrid-Mode Router and TCAM** <a href="https://ieeexplore.ieee.org/document/10621024">[link]</a>  
+Fanxi Yang, **Yuhan He**, Jinqiao Yang, Anqin Xiao, Lufei Fan, Ning Ma, Li-Rong Zheng, Zhuo Zou  
+IEEE TCAS-I, 2024. (**co-first author**)
+
+**TSCM: A TCAM-Based Sparse Connection Memory Architecture in Neuromorphic Computing System for Cortical Simulation** <a href="https://ieeexplore.ieee.org/document/10558463">[link]</a>  
 Fanxi Yang, **Yuhan He**, Ning Ma, Lirong Zheng, Zhuo Zou  
 IEEE ISCAS, 2024.
