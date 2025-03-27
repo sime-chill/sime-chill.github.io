@@ -22,7 +22,7 @@ B.E. in Microelectronics Science and Engineering
 
 # **Publications**
 **CAP-HDC: A CAM-Based Processor for Hyperdimensional Computing** <a href="https://epapers2.org/iscas2025/ESR/paper_details.php?paper_id=2732">[link]</a>  
-**Yuhan He**, Anqin Xiao, Tianxi Hu, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou
+**Yuhan He**, Anqin Xiao, Tianxi Hu, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou  
 IEEE ISCAS, 2025.
 
 **CorTile: A Scalable Neuromorphic Processing Core for Cortical Simulation With Hybrid-Mode Router and TCAM** <a href="https://ieeexplore.ieee.org/document/10621024">[link]</a>  
