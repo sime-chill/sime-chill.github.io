@@ -25,6 +25,11 @@ B.E. in Microelectronics Science and Engineering
 **Yuhan He**, Anqin Xiao, Tianxi Hu, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou  
 IEEE ISCAS, 2025.
 
+
+**A Neuromorphic Controller with On-Chip Learning for Robot Motion Control** <a href="https://epapers2.org/iscas2025/ESR/paper_details.php?paper_id=2948">[link]</a>  
+Hengtan Zhang, Zeyu Wang, Jinqiao Yang, **Yuhan He**, Fanxi Yang, Li-Rong Zheng, Zhuo Zou
+IEEE ISCAS, 2025.
+
 **CorTile: A Scalable Neuromorphic Processing Core for Cortical Simulation With Hybrid-Mode Router and TCAM** <a href="https://ieeexplore.ieee.org/document/10621024">[link]</a>  
 Fanxi Yang, **Yuhan He**, Jinqiao Yang, Anqin Xiao, Lufei Fan, Ning Ma, Li-Rong Zheng, Zhuo Zou  
 IEEE TCAS-I, 2024. (**co-first author**)
