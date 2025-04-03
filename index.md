@@ -9,7 +9,7 @@ I am a second-year M.E. student studying electronic and information engineering 
 I am also with the <a href="https://asic-skl.fudan.edu.cn/">State Key Laboratory of ASIC and System, Fudan University</a>.
 Before that, I received my B.E. degree in microelectronics science and engineering from the <a href="https://seit.sysu.edu.cn/">School of Electronics and Information Technology (School of Microelectronis)</a> at Sun Yat-sen University (SYSU).
 
-I have a broad interest in **low-power digital intergrated circuit (IC) design** and the **memory-centric neuromorphic computing architecture**. 
+I have a broad interest in **Content Addressable Memory (CAM)-based architecture,** **low-power VLSI design** and the **memory-centric neuromorphic hardware**. 
 
 # **Education**
 ### **Fudan University (FDU)**, Shanghai, China

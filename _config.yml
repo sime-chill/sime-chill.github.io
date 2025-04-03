@@ -22,7 +22,7 @@ footer:
       name: yhhe23@m.fudan.edu.cn
       value: yhhe23@m.fudan.edu.cn
   follow:
-    - type: github
+    - type: google
       name: GitHub
       link: http://github.com/sime-chill
 
