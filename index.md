@@ -37,3 +37,7 @@ IEEE TCAS-I, 2024. (**co-first author**)
 **TSCM: A TCAM-Based Sparse Connection Memory Architecture in Neuromorphic Computing System for Cortical Simulation** <a href="https://ieeexplore.ieee.org/document/10558463">[link]</a>  
 Fanxi Yang, **Yuhan He**, Ning Ma, Lirong Zheng, Zhuo Zou  
 IEEE ISCAS, 2024.
+
+# **Contact**
+<a href="yhhe23@m.fudan.edu.cn">[email]  
+<a href="https://scholar.google.com.hk/citations?user=O6HhhY8AAAAJ&hl=zh-CN">[google scholar]

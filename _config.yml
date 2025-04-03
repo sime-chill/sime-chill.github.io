@@ -25,9 +25,6 @@ footer:
     - type: github
       name: GitHub
       link: http://github.com/sime-chill
-    - type: google
-      name: google
-      link: https://scholar.google.com.hk/citations?user=O6HhhY8AAAAJ&hl=zh-CN
 
 
 # Build settings
