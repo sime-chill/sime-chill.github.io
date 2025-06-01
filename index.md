@@ -7,7 +7,7 @@ profile_picture:
 # **About me**
 I am a second-year M.E. student studying electronic and information engineering in the <a href="http://www.it.fudan.edu.cn/">School of Information Science and Technology</a> at Fudan University (FDU) where I am advised by <a href="http://www.it.fudan.edu.cn/Data/View/1139">Prof. Zhuo Zou</a> and <a href="http://www.it.fudan.edu.cn/Data/View/1064">Prof. Li-Rong Zheng</a>. 
 I am also with the <a href="https://asic-skl.fudan.edu.cn/">State Key Laboratory of ASIC and System, Fudan University</a>.
-Before that, I received my B.E. degree in microelectronics science and engineering from the <a href="https://seit.sysu.edu.cn/">School of Electronics and Information Technology (School of Microelectronis)</a> at Sun Yat-sen University (SYSU).
+Before that, I received my B.E. degree in microelectronics science and engineering from the <a href="https://seit.sysu.edu.cn/">School of Electronics and Information Technology (School of Microelectronis)</a> at Sun Yat-sen University (SYSU), where I am advised by <a href="https://seit.sysu.edu.cn/teacher/SuTao">Prof. Tao Su</a>.
 
 I have a broad interest in **Content Addressable Memory (CAM)-based architecture,** **low-power VLSI design** and the **memory-centric neuromorphic hardware**. 
 
