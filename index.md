@@ -37,4 +37,4 @@ IEEE TCAS-I, 2024. (**co-first author**)
 Fanxi Yang, **Yuhan He**, Ning Ma, Lirong Zheng, Zhuo Zou  
 IEEE ISCAS, 2024.
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=SDjGSsVdT7yTLm7tLieThqxHgT4pKhVh5Ze4MZOwrwk&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=757575&w=300&t=tt&d=SDjGSsVdT7yTLm7tLieThqxHgT4pKhVh5Ze4MZOwrwk&co=e8e8e8&cmo=c7defe&cmn=7888ef&ct=cdd4d9'></script>
