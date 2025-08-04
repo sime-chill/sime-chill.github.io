@@ -5,7 +5,7 @@ profile_picture:
   alt: pic_hyh3
 ---
 # **About me**
-I am a second-year M.E. student studying electronic and information engineering in the <a href="http://www.it.fudan.edu.cn/">School of Information Science and Technology</a> at Fudan University (FDU) where I am advised by <a href="http://www.it.fudan.edu.cn/Data/View/1139">Prof. Zhuo Zou</a> and <a href="http://www.it.fudan.edu.cn/Data/View/1064">Prof. Li-Rong Zheng</a>. 
+I am a third-year Ph.D. student studying IC design and computer architecture in the <a href="http://www.it.fudan.edu.cn/">Innovation School of Future Information Technology</a> at Fudan University (FDU) where I am advised by <a href="http://www.it.fudan.edu.cn/Data/View/1139">Prof. Zhuo Zou</a> and <a href="http://www.it.fudan.edu.cn/Data/View/1064">Prof. Li-Rong Zheng</a>. 
 I am also with the <a href="https://asic-skl.fudan.edu.cn/">State Key Laboratory of ASIC and System, Fudan University</a>.
 Before that, I received my B.E. degree in microelectronics science and engineering from the <a href="https://seit.sysu.edu.cn/">School of Electronics and Information Technology (School of Microelectronis)</a> at Sun Yat-sen University (SYSU), where I am advised by <a href="https://seit.sysu.edu.cn/teacher/SuTao">Prof. Tao Su</a>.
 
@@ -13,16 +13,20 @@ I have a broad interest in **Content Addressable Memory (CAM)-based architecture
 
 # **Education**
 ### **Fudan University (FDU)**, Shanghai, China
-Aug. 2023 - Present  
-M.E. in Electronic and Information Engineering
+Aug. 2023 - Jun. 2028 (expected)  
+Ph.D. in Electronic Science and Technology
 
 ### **Sun Yat-sen University (SYSU)**, Guangzhou, China
 Aug. 2019 - Jun. 2023  
 B.E. in Microelectronics Science and Engineering
 
 # **Publications**
-**CAP-HDC: A CAM-Based Processor for Hyperdimensional Computing** <a href="https://epapers2.org/iscas2025/ESR/paper_details.php?paper_id=2732">[link]</a>  
+**CAP-HDC: A CAM-Based Processor for Hyperdimensional Computing** <a href="https://ieeexplore.ieee.org/document/11043379">[link]</a>  
 **Yuhan He**, Anqin Xiao, Tianxi Hu, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou  
+IEEE ISCAS, 2025.
+
+**A Neuromorphic Controller with On-Chip Learning for Robot Motion Control** <a href="https://ieeexplore.ieee.org/document/11044262">[link]</a>  
+Hengtan Zhang, Zeyu Wang, Jinqiao Yang, **Yuhan He**, Fanxi Yang, Li-Rong Zheng, Zhuo Zou
 IEEE ISCAS, 2025.
 
 **A Dual-Mode Neuromorphic Controller with On-Chip Learning for Robot Motion Control** <a href="https://ieeexplore.ieee.org/document/11028925">[link]</a>  
@@ -37,4 +41,4 @@ IEEE TCAS-I, 2024. (**co-first author**)
 Fanxi Yang, **Yuhan He**, Ning Ma, Lirong Zheng, Zhuo Zou  
 IEEE ISCAS, 2024.
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=757575&w=300&t=tt&d=SDjGSsVdT7yTLm7tLieThqxHgT4pKhVh5Ze4MZOwrwk&co=e8e8e8&cmo=c7defe&cmn=7888ef&ct=cdd4d9'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=bfb9b9&w=a&t=tt&d=SDjGSsVdT7yTLm7tLieThqxHgT4pKhVh5Ze4MZOwrwk&co=ffffff&ct=808080&cmo=a6c6ff&cmn=005aff'></script>
