@@ -26,7 +26,7 @@ B.E. in Microelectronics Science and Engineering
 IEEE ISCAS, 2025.
 
 **A Neuromorphic Controller with On-Chip Learning for Robot Motion Control** <a href="https://ieeexplore.ieee.org/document/11044262">[link]</a>  
-Hengtan Zhang, Zeyu Wang, Jinqiao Yang, **Yuhan He**, Fanxi Yang, Li-Rong Zheng, Zhuo Zou
+Hengtan Zhang, Zeyu Wang, Jinqiao Yang, **Yuhan He**, Fanxi Yang, Li-Rong Zheng, Zhuo Zou  
 IEEE ISCAS, 2025.
 
 **A Dual-Mode Neuromorphic Controller with On-Chip Learning for Robot Motion Control** <a href="https://ieeexplore.ieee.org/document/11028925">[link]</a>  
