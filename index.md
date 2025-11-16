@@ -6,7 +6,7 @@ profile_picture:
 ---
 # **About me**
 I am a third-year Ph.D. student studying IC design and computer architecture in the <a href="http://www.it.fudan.edu.cn/">College of Future Information Technology (FIT)</a> at Fudan University (FDU) where I am advised by <a href="http://www.it.fudan.edu.cn/Data/View/1139">Prof. Zhuo Zou</a> and <a href="http://www.it.fudan.edu.cn/Data/View/1064">Prof. Li-Rong Zheng</a>. 
-I am also with the <a href="https://asic-skl.fudan.edu.cn/">State Key Laboratory of ASIC and System, Fudan University</a>.
+I am also with the <a href="https://asic-skl.fudan.edu.cn/">State Key Laboratory of Integrated Chips and Systems, Fudan University</a>.
 Before that, I received my B.E. degree in microelectronics science and engineering from the <a href="https://seit.sysu.edu.cn/">School of Electronics and Information Technology (School of Microelectronis)</a> at Sun Yat-sen University (SYSU), where I am advised by <a href="https://seit.sysu.edu.cn/teacher/SuTao">Prof. Tao Su</a>.
 
 I have a broad interest in **Content Addressable Memory (CAM)-based architecture,** **emerging AI accelerator** and the **memory-centric neuromorphic hardware**. 
@@ -21,16 +21,16 @@ Aug. 2019 - Jun. 2023
 B.E. in Microelectronics Science and Engineering
 
 # **Publications**
-**CAMPRO: A CAM-Based Processing-In-Memory Processor for Hyperdimensional Computing**
+**CAMPRO: A CAM-Based Processing-In-Memory Processor for Hyperdimensional Computing**  
 **Yuhan He**, Tianxi Hu, Anqin Xiao, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou  
-IEEE TCAS-I (**Accepted**).
+IEEE TCAS-I, 2025 (**Accepted**).
 
-**A Self-Supervised Neuromorphic Processor Using High-Dimensional Representations for Cognitive Map Navigation**
-Anqin Xiao, Luyu Yang, **Yuhan He**, Hengtan Zhang, Ziyi Yang, Lirong Zheng, Zhuo Zou
+**A Self-Supervised Neuromorphic Processor Using High-Dimensional Representations for Cognitive Map Navigation**  
+Anqin Xiao, Luyu Yang, **Yuhan He**, Hengtan Zhang, Ziyi Yang, Lirong Zheng, Zhuo Zou  
 IEEE DATE, 2026 (**Accepted**).
 
-**A Compressed Sensing Spiking Neural Network System for Radar-Based HGR**
-Liyu Qian, Zikai Zhu, **Yuhan He**, Jie Lu, Yaojie Sun, Lirong Zheng, Zhuo Zou
+**A Compressed Sensing Spiking Neural Network System for Radar-Based HGR**  
+Liyu Qian, Zikai Zhu, **Yuhan He**, Jie Lu, Yaojie Sun, Lirong Zheng, Zhuo Zou  
 IEEE ASICON, 2025 (**Accepted**).
 
 **CAP-HDC: A CAM-Based Processor for Hyperdimensional Computing** <a href="https://ieeexplore.ieee.org/document/11043379">[link]</a>  
