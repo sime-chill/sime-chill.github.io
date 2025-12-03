@@ -21,7 +21,7 @@ Aug. 2019 - Jun. 2023
 B.E. in Microelectronics Science and Engineering
 
 # **Publications**
-**CAMPRO: A CAM-Based Processing-In-Memory Processor for Hyperdimensional Computing** <a href="https://ieeexplore.ieee.org/document/11272445/">[link]</a> 
+**CAMPRO: A CAM-Based Processing-In-Memory Processor for Hyperdimensional Computing** <a href="https://ieeexplore.ieee.org/document/11272445/">[link]</a>  
 **Yuhan He**, Tianxi Hu, Anqin Xiao, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou  
 IEEE TCAS-I, 2025 (**Early Access**).
 
