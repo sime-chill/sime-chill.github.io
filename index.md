@@ -25,6 +25,10 @@ B.E. in Microelectronics Science and Engineering
 **Yuhan He**, Tianxi Hu, Anqin Xiao, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou  
 IEEE TCAS-I, 2025 (**Early Access**).
 
+**PHENICS: A Scalable Neuromorphic FPGA Architecture for Million-Neuron Cortical Simulation with 4.6× Real-Time Acceleration**  
+Fanxi Yang, Lufei Fan, Qi Jiang, **Yuhan He**, Hanwen Ou, Xun He, Li-Rong Zheng, Zhuo Zou  
+IEEE TCAS-I, 2025 (**Accepted**).
+
 **A Self-Supervised Neuromorphic Processor Using High-Dimensional Representations for Cognitive Map Navigation**  
 Anqin Xiao, Luyu Yang, **Yuhan He**, Hengtan Zhang, Ziyi Yang, Lirong Zheng, Zhuo Zou  
 IEEE DATE, 2026 (**Accepted**).
