@@ -21,13 +21,27 @@ Aug. 2019 - Jun. 2023
 B.E. in Microelectronics Science and Engineering
 
 # **Publications**
+## **First-Author Publications**
+**CIMS: A CAM-Based In-Memory Sorting Architecture for Efficient Top-K Ranking** <a href="https://epapers2.org/iscas2026/ESR/paper_details.php?paper_id=2248">[link]</a>  
+**Yuhan He**, Siheng Lei, Tianxi Hu, Rui Qiao, Li-Rong Zheng, Zhuo Zou  
+IEEE ISCAS, 2026 (**Accepted**).
+
 **CAMPRO: A CAM-Based Processing-In-Memory Processor for Hyperdimensional Computing** <a href="https://ieeexplore.ieee.org/document/11272445/">[link]</a>  
 **Yuhan He**, Tianxi Hu, Anqin Xiao, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou  
 IEEE TCAS-I, 2025 (**Early Access**).
 
-**PHENICS: A Scalable Neuromorphic FPGA Architecture for Million-Neuron Cortical Simulation with 4.6× Real-Time Acceleration**  
+**CAP-HDC: A CAM-Based Processor for Hyperdimensional Computing** <a href="https://ieeexplore.ieee.org/document/11043379">[link]</a>  
+**Yuhan He**, Anqin Xiao, Tianxi Hu, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou  
+IEEE ISCAS, 2025.
+
+**CorTile: A Scalable Neuromorphic Processing Core for Cortical Simulation With Hybrid-Mode Router and TCAM** <a href="https://ieeexplore.ieee.org/document/10621024">[link]</a>  
+Fanxi Yang, **Yuhan He**, Jinqiao Yang, Anqin Xiao, Lufei Fan, Ning Ma, Li-Rong Zheng, Zhuo Zou  
+IEEE TCAS-I, 2024 (**co-first author**).
+
+## **Co-Authored Publications**
+**PHENICS: A Scalable Neuromorphic FPGA Architecture for Million-Neuron Cortical Simulation with 4.6× Real-Time Acceleration** <a href="https://ieeexplore.ieee.org/document/11345327">[link]</a>  
 Fanxi Yang, Lufei Fan, Qi Jiang, **Yuhan He**, Hanwen Ou, Xun He, Li-Rong Zheng, Zhuo Zou  
-IEEE TCAS-I, 2025 (**Accepted**).
+IEEE TCAS-I, 2026 (**Early Access**).
 
 **A Self-Supervised Neuromorphic Processor Using High-Dimensional Representations for Cognitive Map Navigation**  
 Anqin Xiao, Luyu Yang, **Yuhan He**, Hengtan Zhang, Ziyi Yang, Lirong Zheng, Zhuo Zou  
@@ -37,10 +51,6 @@ IEEE DATE, 2026 (**Accepted**).
 Liyu Qian, Zikai Zhu, **Yuhan He**, Jie Lu, Yaojie Sun, Lirong Zheng, Zhuo Zou  
 IEEE ASICON, 2025 (**Accepted**).
 
-**CAP-HDC: A CAM-Based Processor for Hyperdimensional Computing** <a href="https://ieeexplore.ieee.org/document/11043379">[link]</a>  
-**Yuhan He**, Anqin Xiao, Tianxi Hu, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou  
-IEEE ISCAS, 2025.
-
 **A Neuromorphic Controller with On-Chip Learning for Robot Motion Control** <a href="https://ieeexplore.ieee.org/document/11044262">[link]</a>  
 Hengtan Zhang, Zeyu Wang, Jinqiao Yang, **Yuhan He**, Fanxi Yang, Li-Rong Zheng, Zhuo Zou  
 IEEE ISCAS, 2025.
@@ -49,12 +59,14 @@ IEEE ISCAS, 2025.
 Hengtan Zhang, Zeyu Wang, Jinqiao Yang, Yifu Liang, **Yuhan He**, Li Gong, Li-Rong Zheng, Zhuo Zou  
 IEEE TCAS-II, 2025.
 
-**CorTile: A Scalable Neuromorphic Processing Core for Cortical Simulation With Hybrid-Mode Router and TCAM** <a href="https://ieeexplore.ieee.org/document/10621024">[link]</a>  
-Fanxi Yang, **Yuhan He**, Jinqiao Yang, Anqin Xiao, Lufei Fan, Ning Ma, Li-Rong Zheng, Zhuo Zou  
-IEEE TCAS-I, 2024. (**co-first author**)
-
 **TSCM: A TCAM-Based Sparse Connection Memory Architecture in Neuromorphic Computing System for Cortical Simulation** <a href="https://ieeexplore.ieee.org/document/10558463">[link]</a>  
 Fanxi Yang, **Yuhan He**, Ning Ma, Lirong Zheng, Zhuo Zou  
 IEEE ISCAS, 2024.
+
+# **Honors and Awards**
+*2025.10* **Boeing Scholarship** (Corporate-Named Honors Scholarship)  
+*2024.10* **First-Class Postgraduate Scholarship of FDU**  
+*2022.11* **National Scholarship** (Highest-Level Student Award)  
+
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=bfb9b9&w=a&t=tt&d=SDjGSsVdT7yTLm7tLieThqxHgT4pKhVh5Ze4MZOwrwk&co=ffffff&ct=808080&cmo=a6c6ff&cmn=005aff'></script>
