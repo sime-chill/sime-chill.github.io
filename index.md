@@ -64,9 +64,9 @@ Fanxi Yang, **Yuhan He**, Ning Ma, Lirong Zheng, Zhuo Zou
 IEEE ISCAS, 2024.
 
 # **Honors and Awards**
-*2025.10* **Boeing Scholarship** (Corporate-Named Honors Scholarship)  
+*2025.10* **Boeing Scholarship** (Corporate-Named honors scholarship)  
 *2024.10* **First-Class Postgraduate Scholarship of FDU**  
-*2022.11* **National Scholarship** (Highest-Level Student Award)  
+*2022.11* **National Scholarship** (Highest-Level student award of the PRC)  
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=bfb9b9&w=a&t=tt&d=SDjGSsVdT7yTLm7tLieThqxHgT4pKhVh5Ze4MZOwrwk&co=ffffff&ct=808080&cmo=a6c6ff&cmn=005aff'></script>
