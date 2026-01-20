@@ -65,7 +65,7 @@ IEEE ISCAS, 2024.
 
 # **Honors and Awards**
 *2025.10* **Boeing Scholarship** (Corporate-named honors scholarship)  
-*2024.10* **First-Class Postgraduate Scholarship of FDU**  
+*2024.10* **First-Class Graduate Scholarship of FDU**  
 *2022.11* **National Scholarship** (Highest-level student award of the PRC)  
 
 
