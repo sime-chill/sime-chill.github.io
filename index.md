@@ -40,7 +40,7 @@ IEEE Transactions on Circuits and Systems I: Regular Papers, 2024 (**Co-first Au
 
 ## **Co-Authored Publications**
 **Variation-Tolerant Circuit Design and Online Learning Framework for Memristor-Based Trace-STDP SNN** <a href="https://ieeexplore.ieee.org/document/11392785">[link]</a>  
-Yi Zheng, Yuhan He, Ruisi Shen, Jie Li, Ruijia Wang, Duyu Wang, Li-Rong Zheng, Zhuo Zou, Jiawei Xu  
+Yi Zheng, **Yuhan He**, Ruisi Shen, Jie Li, Ruijia Wang, Duyu Wang, Li-Rong Zheng, Zhuo Zou, Jiawei Xu  
 IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2026 (**Early Access**).  
 
 **ELite: An Educational Lightweight Heterogeneous-FPGA-Based Cloud Platform for AI Computing System Courses**  
