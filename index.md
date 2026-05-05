@@ -28,7 +28,7 @@ B.E. in Microelectronics Science and Engineering
 
 **CAMPRO: A CAM-Based Processing-In-Memory Processor for Hyperdimensional Computing** <a href="https://ieeexplore.ieee.org/document/11272445/">[link]</a>  
 **Yuhan He**, Tianxi Hu, Anqin Xiao, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou  
-IEEE Transactions on Circuits and Systems I: Regular Papers, 2025 (**Early Access**).
+IEEE Transactions on Circuits and Systems I: Regular Papers, 2025.
 
 **CAP-HDC: A CAM-Based Processor for Hyperdimensional Computing** <a href="https://ieeexplore.ieee.org/document/11043379">[link]</a>  
 **Yuhan He**, Anqin Xiao, Tianxi Hu, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou  
@@ -39,25 +39,29 @@ Fanxi Yang, **Yuhan He**, Jinqiao Yang, Anqin Xiao, Lufei Fan, Ning Ma, Li-Rong 
 IEEE Transactions on Circuits and Systems I: Regular Papers, 2024 (**Co-first Author**).
 
 ## **Co-Authored Publications**
+**A Compressed Sensing Neuromorphic Processor for Sparse Signal Classification** <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1777090">[link]</a>  
+Liyu Qian, Zikai Zhu, **Yuhan He**, Jie Lu, Yaojie Sun, Jiahui Guo, Lirong Zheng, Zhuo Zou  
+Frontiers in Neuroscience, 2026.  
+
 **Variation-Tolerant Circuit Design and Online Learning Framework for Memristor-Based Trace-STDP SNN** <a href="https://ieeexplore.ieee.org/document/11392785">[link]</a>  
 Yi Zheng, **Yuhan He**, Ruisi Shen, Jie Li, Ruijia Wang, Duyu Wang, Li-Rong Zheng, Zhuo Zou, Jiawei Xu  
-IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2026 (**Early Access**).  
+IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2026.  
 
 **ELite: An Educational Lightweight Heterogeneous-FPGA-Based Cloud Platform for AI Computing System Courses**  
 Huidong Ji, Xing Guo, Zhuoquan Yu, Yue Cao, Junfu Wu, **Yuhan He**, Chen Ding, Li-Rong Zheng, Zhuo Zou  
-2026 IEEE Global Engineering Education Conference (EDUCON), 2026 (**Accepted**).  
+2026 IEEE Global Engineering Education Conference (EDUCON), 2026.  
 
 **A 40-nm Sub-mJ/transfer HDC-SNN Hybrid Processor Enabling On-Chip Few-Shot Transfer Learning for IoT Applications** <a href="https://ieeexplore.ieee.org/document/11366244">[link]</a>  
 Anqin Xiao, Jinqiao Yang, Wanling Yang, Xin Zhang, **Yuhan He**, Ziyi Yang, Li-Rong Zheng, Zhuo Zou  
-IEEE Transactions on Circuits and Systems for Artificial Intelligence, 2026 (**Early Access**).  
+IEEE Transactions on Circuits and Systems for Artificial Intelligence, 2026.  
 
 **PHENICS: A Scalable Neuromorphic FPGA Architecture for Million-Neuron Cortical Simulation with 4.6× Real-Time Acceleration** <a href="https://ieeexplore.ieee.org/document/11345327">[link]</a>  
 Fanxi Yang, Lufei Fan, Qi Jiang, **Yuhan He**, Hanwen Ou, Xun He, Li-Rong Zheng, Zhuo Zou  
-IEEE Transactions on Circuits and Systems I: Regular Papers, 2026 (**Early Access**).
+IEEE Transactions on Circuits and Systems I: Regular Papers, 2026.
 
 **A Self-Supervised Neuromorphic Processor Using High-Dimensional Representations for Cognitive Map Navigation**  
 Anqin Xiao, Luyu Yang, **Yuhan He**, Hengtan Zhang, Ziyi Yang, Lirong Zheng, Zhuo Zou  
-2026 Design, Automation and Test in Europe Conference (DATE), 2026 (**Accepted**).
+2026 Design, Automation and Test in Europe Conference (DATE), 2026.
 
 **A Compressed Sensing Spiking Neural Network System for Radar-Based HGR** <a href="https://ieeexplore.ieee.org/document/11326052">[link]</a>  
 Liyu Qian, Zikai Zhu, **Yuhan He**, Jie Lu, Yaojie Sun, Lirong Zheng, Zhuo Zou  
