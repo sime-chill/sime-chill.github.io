@@ -22,9 +22,9 @@ B.E. in Microelectronics Science and Engineering
 
 # **Publications**
 ## **First-Author Publications**
-**CIMS: A CAM-Based In-Memory Sorting Architecture for Efficient Top-K Ranking** <a href="https://epapers2.org/iscas2026/ESR/paper_details.php?paper_id=2248">[link]</a>  
+**CIMS: A CAM-Based In-Memory Sorting Architecture for Efficient Top-K Ranking** <a href="https://ieeexplore.ieee.org/document/11562187">[link]</a>  
 **Yuhan He**, Siheng Lei, Tianxi Hu, Rui Qiao, Li-Rong Zheng, Zhuo Zou  
-2026 IEEE International Symposium on Circuits and Systems (ISCAS), 2026 (**Accepted**).
+2026 IEEE International Symposium on Circuits and Systems (ISCAS), 2026.
 
 **CAMPRO: A CAM-Based Processing-In-Memory Processor for Hyperdimensional Computing** <a href="https://ieeexplore.ieee.org/document/11272445/">[link]</a>  
 **Yuhan He**, Tianxi Hu, Anqin Xiao, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou  
@@ -59,7 +59,7 @@ IEEE Transactions on Circuits and Systems for Artificial Intelligence, 2026.
 Fanxi Yang, Lufei Fan, Qi Jiang, **Yuhan He**, Hanwen Ou, Xun He, Li-Rong Zheng, Zhuo Zou  
 IEEE Transactions on Circuits and Systems I: Regular Papers, 2026.
 
-**A Self-Supervised Neuromorphic Processor Using High-Dimensional Representations for Cognitive Map Navigation**  
+**A Self-Supervised Neuromorphic Processor Using High-Dimensional Representations for Cognitive Map Navigation** <a href="https://ieeexplore.ieee.org/abstract/document/11539199">[link]</a>   
 Anqin Xiao, Luyu Yang, **Yuhan He**, Hengtan Zhang, Ziyi Yang, Lirong Zheng, Zhuo Zou  
 2026 Design, Automation and Test in Europe Conference (DATE), 2026.
 
@@ -80,9 +80,10 @@ Fanxi Yang, **Yuhan He**, Ning Ma, Lirong Zheng, Zhuo Zou
 2024 IEEE International Symposium on Circuits and Systems (ISCAS), 2024.
 
 # **Honors and Awards**
+*2026.5* **IEEE ISCAS 2026 Student Travel Grant Award** 
 *2025.10* **Boeing Scholarship** (Corporate-named honors scholarship)  
 *2024.10* **First-Class Graduate Scholarship of FDU**  
 *2022.11* **National Scholarship** (Highest-level student award of the PRC)  
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=bfb9b9&w=a&t=tt&d=SDjGSsVdT7yTLm7tLieThqxHgT4pKhVh5Ze4MZOwrwk&co=ffffff&ct=808080&cmo=a6c6ff&cmn=005aff'></script>
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=2jQmxd917dUWGKIYDAKekec70OthVIr6tFz7B5wqW5w"></script>
