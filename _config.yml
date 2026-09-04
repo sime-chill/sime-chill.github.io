@@ -40,6 +40,9 @@ exclude:
   - .siteflow-backup
   - .github
   - _site
+  - CLAUDE.md
+  - AGENTS.md
+  - docs
   - etached
   - _posts
   - index.md
@@ -50,7 +53,7 @@ exclude:
   - README.md
   - screenshot.png
   - bay_jekyll_theme.gemspec
-  - blog_update.sh
+  - scripts
   - Gemfile
   - Gemfile.lock
   - node_modules
