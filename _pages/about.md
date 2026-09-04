@@ -16,7 +16,7 @@ Before that, I received my B.E. degree in microelectronics science and engineeri
 I have a broad interest in **Processing-In-Memory (PIM) architecture,** **emerging AI accelerator** and the **memory-centric neuromorphic hardware**. 
 
 <aside class="fama-card" aria-labelledby="fama-title">
-  <img class="fama-card__logo" src="/assets/images/fama-logo.svg" alt="" width="72" height="72">
+  <img class="fama-card__logo" src="/assets/images/fama-logo.png" alt="" width="72" height="72">
   <div class="fama-card__copy">
     <p class="fama-card__eyebrow">Research knowledge base</p>
     <h2 id="fama-title">FAMA</h2>
