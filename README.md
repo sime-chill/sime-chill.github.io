@@ -9,7 +9,7 @@ The visual framework is adapted from
 distributed under the MIT License and is influenced by Minimal Mistakes and
 Academic Pages. The upstream license notice is retained in `LICENSE`.
 
-The AI Chip Memory Atlas is maintained independently and linked from this
+FAMA (Flagship AI Accelerator Memory Architectures) is maintained independently and linked from this
 homepage at `/chipatlas/`.
 
 ## Local build
@@ -19,5 +19,5 @@ bundle install
 bundle exec jekyll serve
 ```
 
-The combined homepage and ChipAtlas release is built and checked by the Go
-tool in the ChipAtlas repository's `tools/siteflow` directory.
+The combined homepage and FAMA release is built and checked by the Go
+tool in the FAMA repository's `tools/siteflow` directory.

@@ -18,10 +18,11 @@ I have a broad interest in **Processing-In-Memory (PIM) architecture,** **emergi
 <aside class="atlas-card" aria-labelledby="atlas-title">
   <div class="atlas-card__copy">
     <p class="atlas-card__eyebrow">Research knowledge base</p>
-    <h2 id="atlas-title">AI Chip Memory Atlas</h2>
+    <h2 id="atlas-title">FAMA</h2>
+    <p><strong>Flagship AI Accelerator Memory Architectures</strong></p>
     <p>从 Memory 看懂 AI 芯片：存储架构、参数、技术路线与公开来源知识库。</p>
   </div>
-  <a class="atlas-card__button" href="/chipatlas/">Open ChipAtlas <span aria-hidden="true">→</span></a>
+  <a class="atlas-card__button" href="/chipatlas/">Open FAMA <span aria-hidden="true">→</span></a>
 </aside>
 
 <span class="anchor" id="education"></span>
