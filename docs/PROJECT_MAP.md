@@ -1,20 +1,17 @@
 # 个人主页项目地图
 
-## 两个 worktree
+## 唯一工作树
 
-个人主页只有一个 Git 仓库，但本机有两个 worktree：
+- WSL：`/home/wsl_hyh/web/sime-chill.github.io`
+- Windows 访问：`\\wsl.localhost\Ubuntu-20.04\home\wsl_hyh\web\sime-chill.github.io`
+- 发布分支：`master`
 
-| 角色 | Windows/UNC | WSL | 分支（盘点时） |
-| --- | --- | --- | --- |
-| Git 主工作区 | `\\wsl.localhost\Ubuntu-20.04\home\wsl_hyh\sime-chill.github.io` | `/home/wsl_hyh/sime-chill.github.io` | `master`，旧本地检出 |
-| 当前开发 worktree | `E:\codex_work\personal-site-redesign` | `/mnt/e/codex_work/personal-site-redesign` | `redesign/acad-homepage`，当前设计 |
-
-两个目录共享 `/home/wsl_hyh/sime-chill.github.io/.git`。当前页面开发只在 `personal-site-redesign` 进行；不要在两个 worktree 中同时改同一内容。判断远端状态前先 `git fetch origin`，因为 WSL 主工作区的远端跟踪引用可能陈旧。
+迁移后的目录同时保存源码和 `.git`，不再使用 E 盘 linked worktree。E 盘只允许保存归档或临时输出，不能维护第二份可编辑源码。
 
 ## 目录结构
 
 ```text
-personal-site-redesign/
+sime-chill.github.io/
 ├── _data/navigation.yml      # 导航
 ├── _includes/                # Jekyll 局部模板
 ├── _layouts/                 # 页面布局

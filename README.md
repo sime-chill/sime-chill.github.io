@@ -11,7 +11,7 @@ This Jekyll repository publishes <https://yhhe.top>. The authoritative rendered 
 ## Local development in WSL
 
 ```bash
-cd /mnt/e/codex_work/personal-site-redesign
+cd /home/wsl_hyh/web/sime-chill.github.io
 bundle install
 ./scripts/build.sh
 ./scripts/serve.sh
@@ -19,4 +19,4 @@ bundle install
 
 The theme is adapted from [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io); the upstream MIT notice remains in `LICENSE`. FAMA is maintained independently at `/fama/`; `/chipatlas/` is only a compatibility redirect.
 
-Combined verification and release live in the FAMA repository at `E:\codex_work\chipatlas\tools\siteflow`. Real publishing requires explicit user confirmation.
+Combined verification and release live at `/home/wsl_hyh/web/fama/tools/siteflow`. Real publishing requires explicit user confirmation.

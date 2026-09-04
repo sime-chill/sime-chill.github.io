@@ -10,7 +10,7 @@
 ## 本地构建
 
 ```bash
-cd /mnt/e/codex_work/personal-site-redesign
+cd /home/wsl_hyh/web/sime-chill.github.io
 bundle install
 ./scripts/build.sh
 ./scripts/serve.sh
@@ -33,9 +33,9 @@ bundle exec jekyll build --destination /tmp/yhhe-personal-site-build
 
 ## 双站检查与发布
 
-在 Windows PowerShell 中进入 `E:\codex_work\chipatlas\tools\siteflow`：
+在 WSL 中进入 `/home/wsl_hyh/web/fama/tools/siteflow`：
 
-```powershell
+```bash
 go test ./...
 go run . doctor
 go run . all
