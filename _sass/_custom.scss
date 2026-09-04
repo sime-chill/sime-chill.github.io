@@ -12,7 +12,7 @@
   transform: translateY(-1px);
 }
 
-.atlas-card {
+.fama-card {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -24,17 +24,23 @@
   background: linear-gradient(135deg, rgba(36, 107, 98, 0.1), rgba(36, 107, 98, 0.025));
 }
 
-.atlas-card__copy h2 {
+.fama-card__logo {
+  flex: 0 0 auto;
+  border-radius: 16px;
+  box-shadow: 0 12px 32px rgba(2, 18, 20, 0.32);
+}
+
+.fama-card__copy h2 {
   margin: 0.15rem 0 0.45rem;
   border: 0;
   font-size: 1.35rem;
 }
 
-.atlas-card__copy p {
+.fama-card__copy p {
   margin: 0;
 }
 
-.atlas-card__eyebrow {
+.fama-card__eyebrow {
   color: #246b62;
   font-size: 0.72rem;
   font-weight: 700;
@@ -42,7 +48,7 @@
   text-transform: uppercase;
 }
 
-.atlas-card__button {
+.fama-card__button {
   display: inline-flex;
   min-height: 44px;
   align-items: center;
@@ -57,19 +63,18 @@
   text-decoration: none !important;
 }
 
-.atlas-card__button:hover,
-.atlas-card__button:focus-visible {
+.fama-card__button:hover,
+.fama-card__button:focus-visible {
   background: #174e48;
 }
 
 @media (max-width: 48em) {
-  .atlas-card {
+  .fama-card {
     align-items: flex-start;
     flex-direction: column;
   }
 
-  .atlas-card__button {
+  .fama-card__button {
     width: 100%;
   }
 }
-

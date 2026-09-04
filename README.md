@@ -10,7 +10,7 @@ distributed under the MIT License and is influenced by Minimal Mistakes and
 Academic Pages. The upstream license notice is retained in `LICENSE`.
 
 FAMA (Flagship AI Accelerator Memory Architectures) is maintained independently and linked from this
-homepage at `/chipatlas/`.
+homepage at `/fama/`. The former `/chipatlas/` path is retained only as a compatibility redirect.
 
 ## Local build
 

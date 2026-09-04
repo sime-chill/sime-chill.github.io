@@ -15,14 +15,15 @@ Before that, I received my B.E. degree in microelectronics science and engineeri
 
 I have a broad interest in **Processing-In-Memory (PIM) architecture,** **emerging AI accelerator** and the **memory-centric neuromorphic hardware**. 
 
-<aside class="atlas-card" aria-labelledby="atlas-title">
-  <div class="atlas-card__copy">
-    <p class="atlas-card__eyebrow">Research knowledge base</p>
-    <h2 id="atlas-title">FAMA</h2>
+<aside class="fama-card" aria-labelledby="fama-title">
+  <img class="fama-card__logo" src="/assets/images/fama-logo.svg" alt="" width="72" height="72">
+  <div class="fama-card__copy">
+    <p class="fama-card__eyebrow">Research knowledge base</p>
+    <h2 id="fama-title">FAMA</h2>
     <p><strong>Flagship AI Accelerator Memory Architectures</strong></p>
-    <p>从 Memory 看懂 AI 芯片：存储架构、参数、技术路线与公开来源知识库。</p>
+    <p>A source-grounded knowledge base for the memory systems, specifications, and technology roadmaps of flagship AI accelerators.</p>
   </div>
-  <a class="atlas-card__button" href="/chipatlas/">Open FAMA <span aria-hidden="true">→</span></a>
+  <a class="fama-card__button" href="/fama/">Open FAMA <span aria-hidden="true">→</span></a>
 </aside>
 
 <span class="anchor" id="education"></span>

@@ -12,5 +12,5 @@ main:
     url: "/#honors-and-awards"
 
   - title: "FAMA"
-    url: "/chipatlas/"
+    url: "/fama/"
     call_to_action: true
