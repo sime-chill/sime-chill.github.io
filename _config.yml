@@ -1,54 +1,101 @@
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Academic homepage configuration. Personal facts in this file are migrated
+# from the previous Jekyll site; do not add biographical data without review.
+title: "Yuhan He"
+description: "Welcome to Yuhan's blog!"
+url: "https://yhhe.top"
+baseurl: ""
+repository: "sime-chill/sime-chill.github.io"
 
-title: Yuhan He
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Yuhan's blog!
-baseurl: "" # the subpath of the site
-url: "sime-chill.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/pic_hyh3.png
-# google_analytics: "UA-121636368-3"
+google_analytics_id:
+google_site_verification:
+bing_site_verification:
+baidu_site_verification:
 
-header:
-  pages:
-    - name: Home
-      slug: /
-    # - name: Blog
+author:
+  name: "Yuhan He"
+  avatar: "/assets/img/pic_hyh3.png"
+  bio: "Ph.D. student at Fudan University (FDU)"
+  location: "Shanghai, China"
+  employer:
+  googlescholar: "https://scholar.google.com/citations?user=O6HhhY8AAAAJ"
+  email: "heyh25@m.fudan.edu.cn"
+  github: "sime-chill"
+  pubmed:
+  researchgate:
+  uri:
+  linkedin:
+  dblp:
+  orcid:
+  twitter:
+  weibo:
 
-footer:
-  show_powered_by: false
-  contact:
-    - type: email
-      name: heyh25@m.fudan.edu.cn
-      value: heyh25@m.fudan.edu.cn
-  follow:
-    - type: github
-      name: GitHub
-      link: http://github.com/sime-chill
-    - type: google-scholar
-      name: Google Scholar
-      link: https://scholar.google.com/citations?user=O6HhhY8AAAAJ
+include:
+  - _pages
 
+# Legacy theme samples and generated copies are kept in Git history but are
+# not part of the published academic homepage.
+exclude:
+  - .sass-cache
+  - .jekyll-cache
+  - .siteflow-backup
+  - .github
+  - _site
+  - etached
+  - _posts
+  - index.md
+  - work.md
+  - blog.md
+  - CHANGELOG.md
+  - LICENSE.md
+  - README.md
+  - screenshot.png
+  - bay_jekyll_theme.gemspec
+  - blog_update.sh
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
 
-# Build settings
+keep_files:
+  - .git
+
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true
+
 sass:
-    style: :compressed
+  sass_dir: _sass
+  style: compressed
+
+permalink: /:categories/:title/
+timezone: Asia/Shanghai
+
 plugins:
   - jekyll-feed
 
-# Excluded items
-exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - feed.xml
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-
-# Used for defeating caching
-version: 1
+whitelist:
+  - jekyll-feed

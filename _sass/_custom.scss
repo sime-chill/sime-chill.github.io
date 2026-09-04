@@ -1,0 +1,75 @@
+.masthead__menu-item--cta a {
+  border-radius: 999px;
+  background: #246b62;
+  color: #fff !important;
+  padding: 0.55rem 0.9rem;
+  transition: background 160ms ease, transform 160ms ease;
+}
+
+.masthead__menu-item--cta a:hover,
+.masthead__menu-item--cta a:focus-visible {
+  background: #174e48;
+  transform: translateY(-1px);
+}
+
+.atlas-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  margin: 2rem 0 2.5rem;
+  padding: 1.4rem;
+  border: 1px solid rgba(36, 107, 98, 0.22);
+  border-radius: 0.8rem;
+  background: linear-gradient(135deg, rgba(36, 107, 98, 0.1), rgba(36, 107, 98, 0.025));
+}
+
+.atlas-card__copy h2 {
+  margin: 0.15rem 0 0.45rem;
+  border: 0;
+  font-size: 1.35rem;
+}
+
+.atlas-card__copy p {
+  margin: 0;
+}
+
+.atlas-card__eyebrow {
+  color: #246b62;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.atlas-card__button {
+  display: inline-flex;
+  min-height: 44px;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  flex: 0 0 auto;
+  border-radius: 999px;
+  background: #246b62;
+  color: #fff !important;
+  font-weight: 700;
+  padding: 0.7rem 1rem;
+  text-decoration: none !important;
+}
+
+.atlas-card__button:hover,
+.atlas-card__button:focus-visible {
+  background: #174e48;
+}
+
+@media (max-width: 48em) {
+  .atlas-card {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .atlas-card__button {
+    width: 100%;
+  }
+}
+
