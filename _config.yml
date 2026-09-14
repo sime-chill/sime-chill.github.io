@@ -1,7 +1,6 @@
 # Academic homepage configuration. Personal facts in this file are migrated
 # from the previous Jekyll site; do not add biographical data without review.
 title: "Yuhan He"
-description: "Welcome to Yuhan's blog!"
 url: "https://yhhe.top"
 baseurl: ""
 repository: "sime-chill/sime-chill.github.io"

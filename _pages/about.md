@@ -9,7 +9,7 @@ author_profile: true
 
 # **About me**
 
-I am a third-year Ph.D. student studying IC design and computer architecture in the <a href="http://www.it.fudan.edu.cn/">College of Future Information Technology (FIT)</a> at Fudan University (FDU) where I am advised by <a href="http://www.it.fudan.edu.cn/Data/View/1139">Prof. Zhuo Zou</a> and <a href="http://www.it.fudan.edu.cn/Data/View/1064">Prof. Li-Rong Zheng</a>. 
+I am a fourth-year Ph.D. student studying IC design and computer architecture in the <a href="http://www.it.fudan.edu.cn/">College of Future Information Technology (FIT)</a> at Fudan University (FDU) where I am advised by <a href="http://www.it.fudan.edu.cn/Data/View/1139">Prof. Zhuo Zou</a> and <a href="http://www.it.fudan.edu.cn/Data/View/1064">Prof. Li-Rong Zheng</a>. 
 I am also with the <a href="https://sklics.fudan.edu.cn/index.htm">State Key Laboratory of Integrated Chips and Systems (SKLICS), Fudan University</a>.
 Before that, I received my B.E. degree in microelectronics science and engineering from the <a href="https://seit.sysu.edu.cn/">School of Electronics and Information Technology (School of Microelectronis)</a> at Sun Yat-sen University (SYSU), where I am advised by <a href="https://seit.sysu.edu.cn/teacher/SuTao">Prof. Tao Su</a>.
 
@@ -61,6 +61,11 @@ Fanxi Yang, **Yuhan He**, Jinqiao Yang, Anqin Xiao, Lufei Fan, Ning Ma, Li-Rong 
 IEEE Transactions on Circuits and Systems I: Regular Papers, 2024 (**Co-first Author**).
 
 ## **Co-Authored Publications**
+
+**A Firework Inspired Routing Scheme with Single-Packet in-Network Phase Transition for Neuromorphic Systems**  
+Qi Jiang, Fanxi Yang, Lufei Fan, Yi Zheng, **Yuhan He**, Xun He, Xiaoze Yan, Xirui Peng, Hannu Tenhunen, Lirong Zheng, Zhuo Zou  
+2026 IEEE 8th International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2026.
+
 
 **A Compressed Sensing Neuromorphic Processor for Sparse Signal Classification** <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1777090">[link]</a>  
 Liyu Qian, Zikai Zhu, **Yuhan He**, Jie Lu, Yaojie Sun, Jiahui Guo, Lirong Zheng, Zhuo Zou  
