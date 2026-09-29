@@ -62,6 +62,10 @@ IEEE Transactions on Circuits and Systems I: Regular Papers, 2024 (**Co-first Au
 
 ## **Co-Authored Publications**
 
+**A Reward-Modulated On-Chip Online Learning Neuromorphic Accelerator for Dexterous Hand Control**  
+Yifu Liang, Hengtan Zhang, Zeyu Wang, Caicai Luo, **Yuhan He**, Yi Zheng, Siheng Lei, Li-Rong Zheng, Zhuo Zou  
+2026 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA), 2026.
+
 **A Firework Inspired Routing Scheme with Single-Packet in-Network Phase Transition for Neuromorphic Systems**  
 Qi Jiang, Fanxi Yang, Lufei Fan, Yi Zheng, **Yuhan He**, Xun He, Xiaoze Yan, Xirui Peng, Hannu Tenhunen, Lirong Zheng, Zhuo Zou  
 2026 IEEE 8th International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2026.
