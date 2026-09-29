@@ -9,7 +9,7 @@ author_profile: true
 
 # **About me**
 
-I am a fourth-year Ph.D. student studying IC design and computer architecture in the <a href="http://www.it.fudan.edu.cn/">College of Future Information Technology (FIT)</a> at Fudan University (FDU) where I am advised by <a href="http://www.it.fudan.edu.cn/Data/View/1139">Prof. Zhuo Zou</a> and <a href="http://www.it.fudan.edu.cn/Data/View/1064">Prof. Li-Rong Zheng</a>. 
+I am a fourth-year Ph.D. student studying IC design and computer architecture in the <a href="http://www.it.fudan.edu.cn/">College of Future Information Technology (FIT)</a> at Fudan University (FDU) where I am advised by <a href="https://fit.fudan.edu.cn/Data/View/1139#">Prof. Zhuo Zou</a> and <a href="https://fit.fudan.edu.cn/Data/View/1064">Prof. Li-Rong Zheng</a>. 
 I am also with the <a href="https://sklics.fudan.edu.cn/index.htm">State Key Laboratory of Integrated Chips and Systems (SKLICS), Fudan University</a>.
 Before that, I received my B.E. degree in microelectronics science and engineering from the <a href="https://seit.sysu.edu.cn/">School of Electronics and Information Technology (School of Microelectronis)</a> at Sun Yat-sen University (SYSU), where I am advised by <a href="https://seit.sysu.edu.cn/teacher/SuTao">Prof. Tao Su</a>.
 
