@@ -115,9 +115,10 @@ Fanxi Yang, **Yuhan He**, Ning Ma, Lirong Zheng, Zhuo Zou
 
 # **Honors and Awards**
 
+*2026.10* **National Scholarship for Doctoral Students** (Highest-level student award of the PRC)<br>
 *2026.5*  **IEEE ISCAS 2026 Student Travel Grant Award**  
 *2025.10* **Boeing Scholarship** (Corporate-named honors scholarship)  
 *2024.10* **First-Class Graduate Scholarship of FDU**  
-*2022.11* **National Scholarship** (Highest-level student award of the PRC)  
+*2022.10* **National Scholarship for Undergraduate Students** (Highest-level student award of the PRC)
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=s-rJZeuNjkr1ltYrxBtKuwYfktTiaXq90bJKbx-vTeo&cmo=ecc2f7&cmn=ff71d0&co=9bc6e5&ct=000000'></script>
