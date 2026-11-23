@@ -62,6 +62,10 @@ IEEE Transactions on Circuits and Systems I: Regular Papers, 2024 (**Co-first Au
 
 ## **Co-Authored Publications**
 
+**SHARE: A Stage-Aware Hybrid CAM Accelerator with Redundancy Exploitation for Hyperdimensional Computing**  
+Tingting Gao, **Yuhan He**, Hao Ding, Qifei Liu, Jiye Li, Rui Qiao, Siheng Lei, Xiantong Qiu, Li-Rong Zheng, Zhuo Zou  
+2027 Design, Automation and Test in Europe Conference (DATE), 2027 (**Accepted**).
+
 **A Reward-Modulated On-Chip Online Learning Neuromorphic Accelerator for Dexterous Hand Control** <a href="https://epapers2.org/icta2026/ESR/paper_details.php?paper_id=7113">[link]</a>  
 Yifu Liang, Hengtan Zhang, Zeyu Wang, Caicai Luo, **Yuhan He**, Yi Zheng, Siheng Lei, Li-Rong Zheng, Zhuo Zou  
 2026 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA), 2026.
