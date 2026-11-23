@@ -46,7 +46,7 @@ B.E. in Microelectronics Science and Engineering
 
 **CIMS: A CAM-Based In-Memory Sorting Architecture for Efficient Top-K Ranking** <a href="https://ieeexplore.ieee.org/document/11562187">[link]</a>  
 **Yuhan He**, Siheng Lei, Tianxi Hu, Rui Qiao, Li-Rong Zheng, Zhuo Zou  
-2026 IEEE International Symposium on Circuits and Systems (ISCAS), 2026.
+2026 IEEE International Symposium on Circuits and Systems (ISCAS), 2026. <a href="/assets/slides/CIMS_ISCAS2026_slides.pdf">[slides]</a>
 
 **CAMPRO: A CAM-Based Processing-In-Memory Processor for Hyperdimensional Computing** <a href="https://ieeexplore.ieee.org/document/11272445/">[link]</a>  
 **Yuhan He**, Tianxi Hu, Anqin Xiao, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou  
