@@ -48,9 +48,9 @@ B.E. in Microelectronics Science and Engineering
 Tingting Gao, **<u>Yuhan He</u>**, Hao Ding, Qifei Liu, Jiye Li, Rui Qiao, Siheng Lei, Xiantong Qiu, Li-Rong Zheng, Zhuo Zou  
 2027 Design, Automation and Test in Europe Conference (DATE), 2027 (**Accepted**, **Co-First Author**).
 
-**CIMS: A CAM-Based In-Memory Sorting Architecture for Efficient Top-K Ranking** <a href="https://ieeexplore.ieee.org/document/11562187">[pdf]</a>  
+**CIMS: A CAM-Based In-Memory Sorting Architecture for Efficient Top-K Ranking** <a href="https://ieeexplore.ieee.org/document/11562187">[pdf]</a> <a href="/assets/slides/CIMS_ISCAS2026_slides.pdf">[slides]</a>  
 **<u>Yuhan He</u>**, Siheng Lei, Tianxi Hu, Rui Qiao, Li-Rong Zheng, Zhuo Zou  
-2026 IEEE International Symposium on Circuits and Systems (ISCAS), 2026. <a href="/assets/slides/CIMS_ISCAS2026_slides.pdf">[slides]</a>
+2026 IEEE International Symposium on Circuits and Systems (ISCAS), 2026.
 
 **CAMPRO: A CAM-Based Processing-In-Memory Processor for Hyperdimensional Computing** <a href="https://ieeexplore.ieee.org/document/11272445/">[pdf]</a>  
 **<u>Yuhan He</u>**, Tianxi Hu, Anqin Xiao, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou  
@@ -70,7 +70,7 @@ IEEE Transactions on Circuits and Systems I: Regular Papers, 2024 (**Co-first Au
 Yifu Liang, Hengtan Zhang, Zeyu Wang, Caicai Luo, **<u>Yuhan He</u>**, Yi Zheng, Siheng Lei, Li-Rong Zheng, Zhuo Zou  
 2026 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA), 2026.
 
-**A Firework Inspired Routing Scheme with Single-Packet in-Network Phase Transition for Neuromorphic Systems**  
+**A Firework Inspired Routing Scheme with Single-Packet in-Network Phase Transition for Neuromorphic Systems** <a href="https://ieeexplore.ieee.org/abstract/document/11761673">[pdf]</a>  
 Qi Jiang, Fanxi Yang, Lufei Fan, Yi Zheng, **<u>Yuhan He</u>**, Xun He, Xiaoze Yan, Xirui Peng, Hannu Tenhunen, Lirong Zheng, Zhuo Zou  
 2026 IEEE 8th International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2026.
 
@@ -111,7 +111,7 @@ IEEE Transactions on Circuits and Systems Part II: Express Briefs, 2025.
 Hengtan Zhang, Zeyu Wang, Jinqiao Yang, **<u>Yuhan He</u>**, Fanxi Yang, Li-Rong Zheng, Zhuo Zou  
 2025 IEEE International Symposium on Circuits and Systems (ISCAS), 2025.
 
-**TSCM: A TCAM-Based Sparse Connection Memory Architecture in Neuromorphic Computing System for Cortical Simulation** <a href="https://ieeexplore.ieee.org/document/10558463">[pdf]</a>  
+**TSCM: A TCAM-Based Sparse Connection Memory Architecture in Neuromorphic Computing System for Cortical Simulation** <a href="https://ieeexplore.ieee.org/document/10558463">[pdf]</a> <a href="/assets/slides/TSCM_ISCAS2024_slides.pdf">[slides]</a>  
 Fanxi Yang, **<u>Yuhan He</u>**, Ning Ma, Lirong Zheng, Zhuo Zou  
 2024 IEEE International Symposium on Circuits and Systems (ISCAS), 2024.
 
