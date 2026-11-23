@@ -56,7 +56,7 @@ Tingting Gao, **<u>Yuhan He</u>**, Hao Ding, Qifei Liu, Jiye Li, Rui Qiao, Sihen
 **<u>Yuhan He</u>**, Tianxi Hu, Anqin Xiao, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou  
 IEEE Transactions on Circuits and Systems I: Regular Papers, 2025.
 
-**CAP-HDC: A CAM-Based Processor for Hyperdimensional Computing** <a href="https://ieeexplore.ieee.org/document/11043379">[pdf]</a>  
+**CAP-HDC: A CAM-Based Processor for Hyperdimensional Computing** <a href="https://ieeexplore.ieee.org/document/11043379">[pdf]</a> <a href="/assets/posters/CAP-HDC_ISCAS2025_poster.pdf">[poster]</a>  
 **<u>Yuhan He</u>**, Anqin Xiao, Tianxi Hu, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou  
 2025 IEEE International Symposium on Circuits and Systems (ISCAS), 2025.
 
