@@ -83,7 +83,7 @@ Frontiers in Neuroscience, 2026.
 Yi Zheng, **<u>Yuhan He</u>**, Ruisi Shen, Jie Li, Ruijia Wang, Duyu Wang, Li-Rong Zheng, Zhuo Zou, Jiawei Xu  
 IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2026.  
 
-**ELite: An Educational Lightweight Heterogeneous-FPGA-Based Cloud Platform for AI Computing System Courses**  
+**ELite: An Educational Lightweight Heterogeneous-FPGA-Based Cloud Platform for AI Computing System Courses** <a href="https://ieeexplore.ieee.org/abstract/document/11574318">[pdf]</a>  
 Huidong Ji, Xing Guo, Zhuoquan Yu, Yue Cao, Junfu Wu, **<u>Yuhan He</u>**, Chen Ding, Li-Rong Zheng, Zhuo Zou  
 2026 IEEE Global Engineering Education Conference (EDUCON), 2026.  
 
