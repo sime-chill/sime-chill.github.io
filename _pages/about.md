@@ -44,75 +44,75 @@ B.E. in Microelectronics Science and Engineering
 
 ## **First-Author Publications**
 
-**CIMS: A CAM-Based In-Memory Sorting Architecture for Efficient Top-K Ranking** <a href="https://ieeexplore.ieee.org/document/11562187">[link]</a>  
-**Yuhan He**, Siheng Lei, Tianxi Hu, Rui Qiao, Li-Rong Zheng, Zhuo Zou  
+**SHARE: A Stage-Aware Hybrid CAM Accelerator with Redundancy Exploitation for Hyperdimensional Computing**  
+Tingting Gao, **<u>Yuhan He</u>**, Hao Ding, Qifei Liu, Jiye Li, Rui Qiao, Siheng Lei, Xiantong Qiu, Li-Rong Zheng, Zhuo Zou  
+2027 Design, Automation and Test in Europe Conference (DATE), 2027 (**Accepted**, **Co-First Author**).
+
+**CIMS: A CAM-Based In-Memory Sorting Architecture for Efficient Top-K Ranking** <a href="https://ieeexplore.ieee.org/document/11562187">[pdf]</a>  
+**<u>Yuhan He</u>**, Siheng Lei, Tianxi Hu, Rui Qiao, Li-Rong Zheng, Zhuo Zou  
 2026 IEEE International Symposium on Circuits and Systems (ISCAS), 2026. <a href="/assets/slides/CIMS_ISCAS2026_slides.pdf">[slides]</a>
 
-**CAMPRO: A CAM-Based Processing-In-Memory Processor for Hyperdimensional Computing** <a href="https://ieeexplore.ieee.org/document/11272445/">[link]</a>  
-**Yuhan He**, Tianxi Hu, Anqin Xiao, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou  
+**CAMPRO: A CAM-Based Processing-In-Memory Processor for Hyperdimensional Computing** <a href="https://ieeexplore.ieee.org/document/11272445/">[pdf]</a>  
+**<u>Yuhan He</u>**, Tianxi Hu, Anqin Xiao, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou  
 IEEE Transactions on Circuits and Systems I: Regular Papers, 2025.
 
-**CAP-HDC: A CAM-Based Processor for Hyperdimensional Computing** <a href="https://ieeexplore.ieee.org/document/11043379">[link]</a>  
-**Yuhan He**, Anqin Xiao, Tianxi Hu, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou  
+**CAP-HDC: A CAM-Based Processor for Hyperdimensional Computing** <a href="https://ieeexplore.ieee.org/document/11043379">[pdf]</a>  
+**<u>Yuhan He</u>**, Anqin Xiao, Tianxi Hu, Fanxi Yang, Hengtan Zhang, Li-Rong Zheng, Zhuo Zou  
 2025 IEEE International Symposium on Circuits and Systems (ISCAS), 2025.
 
-**CorTile: A Scalable Neuromorphic Processing Core for Cortical Simulation With Hybrid-Mode Router and TCAM** <a href="https://ieeexplore.ieee.org/document/10621024">[link]</a>  
-Fanxi Yang, **Yuhan He**, Jinqiao Yang, Anqin Xiao, Lufei Fan, Ning Ma, Li-Rong Zheng, Zhuo Zou  
+**CorTile: A Scalable Neuromorphic Processing Core for Cortical Simulation With Hybrid-Mode Router and TCAM** <a href="https://ieeexplore.ieee.org/document/10621024">[pdf]</a>  
+Fanxi Yang, **<u>Yuhan He</u>**, Jinqiao Yang, Anqin Xiao, Lufei Fan, Ning Ma, Li-Rong Zheng, Zhuo Zou  
 IEEE Transactions on Circuits and Systems I: Regular Papers, 2024 (**Co-first Author**).
 
 ## **Co-Authored Publications**
 
-**SHARE: A Stage-Aware Hybrid CAM Accelerator with Redundancy Exploitation for Hyperdimensional Computing**  
-Tingting Gao, **Yuhan He**, Hao Ding, Qifei Liu, Jiye Li, Rui Qiao, Siheng Lei, Xiantong Qiu, Li-Rong Zheng, Zhuo Zou  
-2027 Design, Automation and Test in Europe Conference (DATE), 2027 (**Accepted**).
-
-**A Reward-Modulated On-Chip Online Learning Neuromorphic Accelerator for Dexterous Hand Control** <a href="https://epapers2.org/icta2026/ESR/paper_details.php?paper_id=7113">[link]</a>  
-Yifu Liang, Hengtan Zhang, Zeyu Wang, Caicai Luo, **Yuhan He**, Yi Zheng, Siheng Lei, Li-Rong Zheng, Zhuo Zou  
+**A Reward-Modulated On-Chip Online Learning Neuromorphic Accelerator for Dexterous Hand Control** <a href="https://epapers2.org/icta2026/ESR/paper_details.php?paper_id=7113">[pdf]</a>  
+Yifu Liang, Hengtan Zhang, Zeyu Wang, Caicai Luo, **<u>Yuhan He</u>**, Yi Zheng, Siheng Lei, Li-Rong Zheng, Zhuo Zou  
 2026 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA), 2026.
 
 **A Firework Inspired Routing Scheme with Single-Packet in-Network Phase Transition for Neuromorphic Systems**  
-Qi Jiang, Fanxi Yang, Lufei Fan, Yi Zheng, **Yuhan He**, Xun He, Xiaoze Yan, Xirui Peng, Hannu Tenhunen, Lirong Zheng, Zhuo Zou  
+Qi Jiang, Fanxi Yang, Lufei Fan, Yi Zheng, **<u>Yuhan He</u>**, Xun He, Xiaoze Yan, Xirui Peng, Hannu Tenhunen, Lirong Zheng, Zhuo Zou  
 2026 IEEE 8th International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2026.
 
 
-**A Compressed Sensing Neuromorphic Processor for Sparse Signal Classification** <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1777090">[link]</a>  
-Liyu Qian, Zikai Zhu, **Yuhan He**, Jie Lu, Yaojie Sun, Jiahui Guo, Lirong Zheng, Zhuo Zou  
+**A Compressed Sensing Neuromorphic Processor for Sparse Signal Classification** <a href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1777090">[pdf]</a>  
+Liyu Qian, Zikai Zhu, **<u>Yuhan He</u>**, Jie Lu, Yaojie Sun, Jiahui Guo, Lirong Zheng, Zhuo Zou  
 Frontiers in Neuroscience, 2026.  
 
-**Variation-Tolerant Circuit Design and Online Learning Framework for Memristor-Based Trace-STDP SNN** <a href="https://ieeexplore.ieee.org/document/11392785">[link]</a>  
-Yi Zheng, **Yuhan He**, Ruisi Shen, Jie Li, Ruijia Wang, Duyu Wang, Li-Rong Zheng, Zhuo Zou, Jiawei Xu  
+**Variation-Tolerant Circuit Design and Online Learning Framework for Memristor-Based Trace-STDP SNN** <a href="https://ieeexplore.ieee.org/document/11392785">[pdf]</a>  
+Yi Zheng, **<u>Yuhan He</u>**, Ruisi Shen, Jie Li, Ruijia Wang, Duyu Wang, Li-Rong Zheng, Zhuo Zou, Jiawei Xu  
 IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2026.  
 
 **ELite: An Educational Lightweight Heterogeneous-FPGA-Based Cloud Platform for AI Computing System Courses**  
-Huidong Ji, Xing Guo, Zhuoquan Yu, Yue Cao, Junfu Wu, **Yuhan He**, Chen Ding, Li-Rong Zheng, Zhuo Zou  
+Huidong Ji, Xing Guo, Zhuoquan Yu, Yue Cao, Junfu Wu, **<u>Yuhan He</u>**, Chen Ding, Li-Rong Zheng, Zhuo Zou  
 2026 IEEE Global Engineering Education Conference (EDUCON), 2026.  
 
-**A 40-nm Sub-mJ/transfer HDC-SNN Hybrid Processor Enabling On-Chip Few-Shot Transfer Learning for IoT Applications** <a href="https://ieeexplore.ieee.org/document/11366244">[link]</a>  
-Anqin Xiao, Jinqiao Yang, Wanling Yang, Xin Zhang, **Yuhan He**, Ziyi Yang, Li-Rong Zheng, Zhuo Zou  
+**A 40-nm Sub-mJ/transfer HDC-SNN Hybrid Processor Enabling On-Chip Few-Shot Transfer Learning for IoT Applications** <a href="https://ieeexplore.ieee.org/document/11366244">[pdf]</a>  
+Anqin Xiao, Jinqiao Yang, Wanling Yang, Xin Zhang, **<u>Yuhan He</u>**, Ziyi Yang, Li-Rong Zheng, Zhuo Zou  
 IEEE Transactions on Circuits and Systems for Artificial Intelligence, 2026.  
 
-**PHENICS: A Scalable Neuromorphic FPGA Architecture for Million-Neuron Cortical Simulation with 4.6× Real-Time Acceleration** <a href="https://ieeexplore.ieee.org/document/11345327">[link]</a>  
-Fanxi Yang, Lufei Fan, Qi Jiang, **Yuhan He**, Hanwen Ou, Xun He, Li-Rong Zheng, Zhuo Zou  
+**PHENICS: A Scalable Neuromorphic FPGA Architecture for Million-Neuron Cortical Simulation with 4.6× Real-Time Acceleration** <a href="https://ieeexplore.ieee.org/document/11345327">[pdf]</a>  
+Fanxi Yang, Lufei Fan, Qi Jiang, **<u>Yuhan He</u>**, Hanwen Ou, Xun He, Li-Rong Zheng, Zhuo Zou  
 IEEE Transactions on Circuits and Systems I: Regular Papers, 2026.
 
-**A Self-Supervised Neuromorphic Processor Using High-Dimensional Representations for Cognitive Map Navigation** <a href="https://ieeexplore.ieee.org/abstract/document/11539199">[link]</a>   
-Anqin Xiao, Luyu Yang, **Yuhan He**, Hengtan Zhang, Ziyi Yang, Lirong Zheng, Zhuo Zou  
+**A Self-Supervised Neuromorphic Processor Using High-Dimensional Representations for Cognitive Map Navigation** <a href="https://ieeexplore.ieee.org/abstract/document/11539199">[pdf]</a>   
+Anqin Xiao, Luyu Yang, **<u>Yuhan He</u>**, Hengtan Zhang, Ziyi Yang, Lirong Zheng, Zhuo Zou  
 2026 Design, Automation and Test in Europe Conference (DATE), 2026.
 
-**A Compressed Sensing Spiking Neural Network System for Radar-Based HGR** <a href="https://ieeexplore.ieee.org/document/11326052">[link]</a>  
-Liyu Qian, Zikai Zhu, **Yuhan He**, Jie Lu, Yaojie Sun, Lirong Zheng, Zhuo Zou  
+**A Compressed Sensing Spiking Neural Network System for Radar-Based HGR** <a href="https://ieeexplore.ieee.org/document/11326052">[pdf]</a>  
+Liyu Qian, Zikai Zhu, **<u>Yuhan He</u>**, Jie Lu, Yaojie Sun, Lirong Zheng, Zhuo Zou  
 2025 IEEE 16th International Conference on ASIC (ASICON), 2025.
 
-**A Dual-Mode Neuromorphic Controller with On-Chip Learning for Robot Motion Control** <a href="https://ieeexplore.ieee.org/document/11028925">[link]</a>  
-Hengtan Zhang, Zeyu Wang, Jinqiao Yang, Yifu Liang, **Yuhan He**, Li Gong, Li-Rong Zheng, Zhuo Zou  
+**A Dual-Mode Neuromorphic Controller with On-Chip Learning for Robot Motion Control** <a href="https://ieeexplore.ieee.org/document/11028925">[pdf]</a>  
+Hengtan Zhang, Zeyu Wang, Jinqiao Yang, Yifu Liang, **<u>Yuhan He</u>**, Li Gong, Li-Rong Zheng, Zhuo Zou  
 IEEE Transactions on Circuits and Systems Part II: Express Briefs, 2025.
 
-**A Neuromorphic Controller with On-Chip Learning for Robot Motion Control** <a href="https://ieeexplore.ieee.org/document/11044262">[link]</a>  
-Hengtan Zhang, Zeyu Wang, Jinqiao Yang, **Yuhan He**, Fanxi Yang, Li-Rong Zheng, Zhuo Zou  
+**A Neuromorphic Controller with On-Chip Learning for Robot Motion Control** <a href="https://ieeexplore.ieee.org/document/11044262">[pdf]</a>  
+Hengtan Zhang, Zeyu Wang, Jinqiao Yang, **<u>Yuhan He</u>**, Fanxi Yang, Li-Rong Zheng, Zhuo Zou  
 2025 IEEE International Symposium on Circuits and Systems (ISCAS), 2025.
 
-**TSCM: A TCAM-Based Sparse Connection Memory Architecture in Neuromorphic Computing System for Cortical Simulation** <a href="https://ieeexplore.ieee.org/document/10558463">[link]</a>  
-Fanxi Yang, **Yuhan He**, Ning Ma, Lirong Zheng, Zhuo Zou  
+**TSCM: A TCAM-Based Sparse Connection Memory Architecture in Neuromorphic Computing System for Cortical Simulation** <a href="https://ieeexplore.ieee.org/document/10558463">[pdf]</a>  
+Fanxi Yang, **<u>Yuhan He</u>**, Ning Ma, Lirong Zheng, Zhuo Zou  
 2024 IEEE International Symposium on Circuits and Systems (ISCAS), 2024.
 
 <span class="anchor" id="honors-and-awards"></span>
